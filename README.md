@@ -4,17 +4,17 @@ I am a business analytics professional with a deep passion for working with data
 
 ### 💫 Skills & Expertise:
 
-Programming Languages: Proficient in R, Python, SQL, and SAS
+- Programming Languages: Proficient in R, Python, SQL, and SAS
 
-Data Visualization: Skilled in Power BI, Tableau, and MS Excel
+- Data Visualization: Skilled in Power BI, Tableau, and MS Excel
 
-Financial Analysis: Experienced in bank reconciliation, balance sheets, and accounting practices
+- Financial Analysis: Experienced in bank reconciliation, balance sheets, and accounting practices
 
-Machine Learning: Expertise in model development, forecasting, and data processing
+- Machine Learning: Expertise in model development, forecasting, and data processing
 
-Project Management: Led multiple projects from time series forecasting to database design and ERD creation
+- Project Management: Led multiple projects from time series forecasting to database design and ERD creation
 
-Cloud Platforms & Data Tools: Comfortable working with cloud services like AWS and platforms like Google Cloud
+- Cloud Platforms & Data Tools: Comfortable working with cloud services like AWS and platforms like Google Cloud
 
 
 ### 💼 Current Role:

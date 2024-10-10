@@ -31,7 +31,7 @@ GitHub: syedjazilhussain
 
 Kaggle: Syed Jazil Hussain
 
-LinkedIn: [[Your LinkedIn Profile]
+LinkedIn: [[Jazil Hussain]
 ](https://www.linkedin.com/in/jazil-hussain-258826218/)
 ### 📫 Contact Me:
 

@@ -1,4 +1,4 @@
-# Hi, I'm Syed Jazil Hussain
+# Hi, I'm Jazil Hussain
 ### 👀 About Me:
 I am a business analytics professional with a deep passion for working with data. With experience across financial analytics, business intelligence, and data science, I thrive on transforming raw data into actionable insights that drive business growth. My skillset spans across R, Python, SQL, and SAS, as well as data visualization tools like Tableau and Power BI. I enjoy solving complex data problems, whether through statistical analysis, machine learning models, or intuitive dashboards.
 

@@ -2,7 +2,7 @@
 ### 👀 About Me:
 I am a business analytics professional with a deep passion for working with data. With experience across financial analytics, business intelligence, and data science, I thrive on transforming raw data into actionable insights that drive business growth. My skillset spans across R, Python, SQL, and SAS, as well as data visualization tools like Tableau and Power BI. I enjoy solving complex data problems, whether through statistical analysis, machine learning models, or intuitive dashboards.
 
-### 🌱 Skills & Expertise:
+### 💫 Skills & Expertise:
 
 Programming Languages: Proficient in R, Python, SQL, and SAS
 
@@ -21,7 +21,7 @@ Cloud Platforms & Data Tools: Comfortable working with cloud services like AWS a
 
 At present, I work as an Associate Accountant at Kantar, handling intricate financial functions while leveraging Maconomy and OneStream for financial reporting and reconciliation.
 
-### 💞️ Collaboration:
+### 😄 Collaboration:
 
 I'm always excited about collaborative opportunities in data science and business analytics. Whether it's implementing machine learning algorithms, diving into SQL queries, or creating dashboards that bring data to life, I'm up for the challenge.
 

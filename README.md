@@ -31,8 +31,8 @@ GitHub: syedjazilhussain
 
 Kaggle: Syed Jazil Hussain
 
-LinkedIn: [Your LinkedIn Profile]
-
+LinkedIn: [[Your LinkedIn Profile]
+](https://www.linkedin.com/in/jazil-hussain-258826218/)
 ### 📫 Contact Me:
 
 Feel free to reach out to me for any collaborations or discussions at 📧 syedjazil@hotmail.com. Let’s turn data into valuable insights!

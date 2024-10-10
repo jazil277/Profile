@@ -27,9 +27,8 @@ I'm always excited about collaborative opportunities in data science and busines
 
 ### 🔍 Find Me On:
 
-GitHub: syedjazilhussain
-
-Kaggle: Syed Jazil Hussain
+GitHub: [[Jazil Hussain]
+](https://github.com/jazil277)
 
 LinkedIn: [[Jazil Hussain]
 ](https://www.linkedin.com/in/jazil-hussain-258826218/)

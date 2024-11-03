@@ -19,7 +19,7 @@ I am a business analytics professional with a deep passion for working with data
 
 ### 💼 Current Role:
 
-At present, I work as an Associate Accountant at Kantar, handling intricate financial functions while leveraging Maconomy and OneStream for financial reporting and reconciliation.
+At present, I work as an Financial Analyst at Kantar, handling intricate financial functions while leveraging Maconomy and OneStream for financial reporting and reconciliation.
 
 ### 😄 Collaboration:
 
